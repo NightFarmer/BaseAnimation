@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/libs/SocialSDK_WeiXin.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="a5f20a9010df32cb73db28ec33964ed8b4c503cc">
+        <dex dex="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/build/intermediates/pre-dexed/debug/SocialSDK_WeiXin_7ba6686b05c1900e2c9dad7bfaa56e832f58339f.jar" />
+    </item>
+    <item
+        jar="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/libs/umeng_social_sdk.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="914dcfbf5e1184bbfa58f4aceb1559f6b8991636">
+        <dex dex="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/build/intermediates/pre-dexed/debug/umeng_social_sdk_851fc65537b9beff8f2dd7efcdaaad5fcd3892a4.jar" />
+    </item>
+    <item
+        jar="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/libs/SocialSDK_QQZone_2.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="1d1a215c3acd13ef011b8391cab495f7760c2a1d">
+        <dex dex="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/build/intermediates/pre-dexed/debug/SocialSDK_QQZone_2_6579671d6f5b67b736f20a7f7dd263d12db9e2a0.jar" />
+    </item>
+    <item
+        jar="/usr/android-sdk-linux/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/build/intermediates/pre-dexed/debug/support-v4-18.0.0_4f41d3d9387daf27a0d695600bd369fceff2a367.jar" />
+    </item>
+    <item
+        jar="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/libs/umeng_sdk.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="653c94cb79c8cc409b308c49e21581fe07292ce2">
+        <dex dex="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/build/intermediates/pre-dexed/debug/umeng_sdk_80e21ac43fdc086fa3998690d9b66a8e01fb414c.jar" />
+    </item>
+    <item
+        jar="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/build/intermediates/exploded-aar/BaseAnimation/bAnim_ListViewLibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="20d40f9fc94d751bdf8269f6789e7f11ca004ab7">
+        <dex dex="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/build/intermediates/pre-dexed/debug/BaseAnimation-bAnim_ListViewLibrary-unspecified_00ed7ed690c637dddb7831cb5e28ab53ed8e8cf6.jar" />
+    </item>
+    <item
+        jar="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-18.0.0_5e7bb7853bc4cd014aff5cd66160ffcd1ad1e087.jar" />
+    </item>
+    <item
+        jar="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/libs/SocialSDK_QQZone_1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="48959cea0169c9c7f4b3822fcd7b168cdba3994b">
+        <dex dex="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/build/intermediates/pre-dexed/debug/SocialSDK_QQZone_1_e56836cac4556860fdbdaebb90bbe4b3c37ef6c6.jar" />
+    </item>
+    <item
+        jar="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/build/intermediates/exploded-aar/BaseAnimation/bAnim_ListViewLibrary/unspecified/jars/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="a3c9b101f461775df0b31fa887af22552e4778cd">
+        <dex dex="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0_f28dee9db1f8731c575b2ee58d4f58eead99cf21.jar" />
+    </item>
+    <item
+        jar="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/build/intermediates/exploded-aar/BaseAnimation/bAnim_FilpLibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="a495c6e6483a5b00fb161632ecc1d96cd8974cbe">
+        <dex dex="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/build/intermediates/pre-dexed/debug/BaseAnimation-bAnim_FilpLibrary-unspecified_75df18364f382814a1421c2e003dfaeebeccb55b.jar" />
+    </item>
+    <item
+        jar="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/libs/fluffy-commons-1.0.9.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="7c34a3a19cc203c823cb822bf5bb7ca48956509f">
+        <dex dex="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/build/intermediates/pre-dexed/debug/fluffy-commons-1.0.9_f5defd75c036d8a41f7da66025ac7ac67a23fd71.jar" />
+    </item>
+    <item
+        jar="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/libs/SocialSDK_tencentWB_1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="328c5351cae13f2ab29450d22b6c02d0ac88a855">
+        <dex dex="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/build/intermediates/pre-dexed/debug/SocialSDK_tencentWB_1_505638a0a926765211b1eda68d255e5341a04b01.jar" />
+    </item>
+    <item
+        jar="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/libs/universal-image-loader-1.8.6-with-sources.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
+        <dex dex="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/build/intermediates/pre-dexed/debug/universal-image-loader-1.8.6-with-sources_7b6124add1a854585be3adfc1e090039f5284a09.jar" />
+    </item>
+    <item
+        jar="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/libs/casee-ad-sdk-2.6.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="bd21245678ec087842d7cdeee6c4acbafa629893">
+        <dex dex="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/build/intermediates/pre-dexed/debug/casee-ad-sdk-2.6_2cbd2c41d2873654c91d8eeadd8641bce2048769.jar" />
+    </item>
+    <item
+        jar="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/build/intermediates/exploded-aar/BaseAnimation/bAnim_ListViewLibrary/unspecified/jars/libs/stickylistheaders_lib.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="408f8197cb7d89dda9a72d2963840b905245042b">
+        <dex dex="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/build/intermediates/pre-dexed/debug/stickylistheaders_lib_82bf17c38af7e29cba18330d07a3dea9db0ef70c.jar" />
+    </item>
+    <item
+        jar="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/libs/jpush-sdk-release1.5.6.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="817cdc694d4820b9cedab7f5b21c7dbe0fdbcf1f">
+        <dex dex="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/build/intermediates/pre-dexed/debug/jpush-sdk-release1.5.6_3c5aed54177d5596d2c160334e540a47fe51a2a8.jar" />
+    </item>
+    <item
+        jar="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/libs/httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/build/intermediates/pre-dexed/debug/httpmime-4.1.3_226f53429ff4285a74acf7854654ca79f8c59324.jar" />
+    </item>
+    <item
+        jar="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/libs/picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/build/intermediates/pre-dexed/debug/picasso-2.3.2_aafc2e30588b46e609bfcc67b76504f15d7380d2.jar" />
+    </item>
+    <item
+        jar="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/libs/SocialSDK_tencentWB_2.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6f744074067eb201171c9c8ff1ca45ed821a76a8">
+        <dex dex="/media/D/ubuntu/workspace/BaseAnimation/baseAnimation/build/intermediates/pre-dexed/debug/SocialSDK_tencentWB_2_1df6a18a01e1c837ff6bc566ea45ee340b727bca.jar" />
+    </item>
+
+</items>

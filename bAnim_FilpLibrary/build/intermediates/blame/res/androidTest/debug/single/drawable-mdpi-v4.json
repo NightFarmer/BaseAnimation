@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/media/D/ubuntu/workspace/BaseAnimation/bAnim_FilpLibrary/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/media/D/ubuntu/workspace/BaseAnimation/bAnim_FilpLibrary/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/media/D/ubuntu/workspace/BaseAnimation/bAnim_FilpLibrary/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/ic_action_search.png",
+        "source": "/media/D/ubuntu/workspace/BaseAnimation/bAnim_FilpLibrary/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_action_search.png"
+    }
+]
